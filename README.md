@@ -1,6 +1,10 @@
 # Portfolio
 
+Designing a responsive website using the Bootstrap CSS Framework. 
 
+Building this website was definitely more difficult. The navbar was a bit tricky for me to figure out in the beginning, but I was able to work it out to where I'd like it to look at the minimum.
+
+Designing the layout for the portfolio was more difficult. The form page was ok to figure out, but  figuring out the portfolio and the responsive layout...there is so much more I can do and I'm not satisfied with how some of the layout turned out to look like. 
 
 ## Screenshots of the Deployed Website
 
