@@ -13,3 +13,8 @@ h1 {
     display: inline-block;
     margin-left: 25px;
 }
+
+.navbar-brand {
+    font-size: 48px;
+    background-color: #E6E6FA
+}
