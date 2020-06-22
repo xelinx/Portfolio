@@ -13,7 +13,8 @@
     <link rel="stylesheet" href="/style.css">
 
   </head>
-  <body>
+  
+  <body class="d-flex flex-column h-100">
     <!-- Navigation Bar -->
     <header>
       <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -35,7 +36,7 @@
   </header>
 
     <!-- Contact Form -->
-    <section class="container">
+    <article class="container">
       <h2>Contact</h2>
       <hr>
         <div class="h-100 row align-items-center">
@@ -55,11 +56,13 @@
             <button type="submit" class="btn btn-primary">Submit</button>
           </form>     
         </div>
-    </section>
+      </article>
 
     <!-- Footer -->
-    <footer class="footer" style= "background-color: #a58ed3;">
-      <p class="container">©copyright</p>
+    <footer class="footer mt-auto py-3"  style= "background-color: #a58ed3;">
+      <div class="container">
+        <span class="text-light">©copyright</span>
+      </div>
     </footer>
 
     <!-- Optional JavaScript -->
