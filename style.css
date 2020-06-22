@@ -33,7 +33,7 @@ h1 {
     font-size: 48px;
 }
 
-  .row {
+.row {
     margin: 8px -16px;
 }
      
@@ -43,24 +43,14 @@ h1 {
     width: 25%;
 }
 
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 900px) {
-.column {
-      width: 50%;
+.img {
+    max-height: 250px;
 }
-}
-  
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-.column {
-      width: 100%;
-}
-}
+
 
 /*Footer*/
 .footer {
     padding: 30px;
-    background-color: #9370d8;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
