@@ -8,7 +8,7 @@ Designing the layout for the portfolio was more difficult. The form page was ok 
 
 ## Screenshots of the Deployed Website
 ![About](https://user-images.githubusercontent.com/66236313/85268385-4b693180-b42b-11ea-896d-0ac4950ecfe1.png)
-![Portfolio](https://user-images.githubusercontent.com/66236313/85268389-4dcb8b80-b42b-11ea-94cb-2bf5848bc947.png)
+![Portfolio](https://user-images.githubusercontent.com/66236313/85271525-c5031e80-b42f-11ea-9eb0-ab246f2cdbea.png)
 ![Contact](https://user-images.githubusercontent.com/66236313/85268394-4e642200-b42b-11ea-8d56-ad4fb51a38dc.png)
 
 ## Review
