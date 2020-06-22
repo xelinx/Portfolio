@@ -6,10 +6,6 @@
     background-color: #f1f1f1;
     padding: 20px;
     font-family: Arial;
-  }
-  
-  /* Center body*/
-  .main {
     max-width: 1000px;
     margin: auto;
   }
@@ -21,6 +17,7 @@
 
 h1 {
     display: inline-block;
+    color: #ffffff;
     font-size: 48px;
     background-color: #E6E6FA;
     word-break: break-all;
@@ -38,13 +35,7 @@ h1 {
   .row {
     margin: 8px -16px;
 }
-  
-/* Add padding BETWEEN each column (if you want) */
-.row,
-.row > .column {
-    padding: 8px;
-}
-  
+    
 /* Four Columns */
 .column {
     float: left;
