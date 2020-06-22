@@ -25,9 +25,13 @@ https://github.com/xelinx/portfolio
 
 ## Credits (tutorials used)
 Bootstrap https://getbootstrap.com/docs/4.5/getting-started/introduction/
+
 Navbar https://medium.com/coder-grrl/the-guide-to-customising-the-bootstrap-4-navbar-i-wish-id-had-6-months-ago-7bc6ce0e3c71
+
 HTML Semantic Elements https://www.w3schools.com/html/html5_semantic_elements.asp
+
 Divitis https://csscreator.com/divitis
+
 Bootstrap 4 Tutorial https://www.w3schools.com/bootstrap4/default.asp
 
 - - -
