@@ -24,6 +24,13 @@ h1 {
     word-break: break-all;
 }
 
+.container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .header li {
     display: inline-block;
     margin-left: 25px;
@@ -33,18 +40,14 @@ h1 {
     font-size: 48px;
 }
 
+/*Grid Layout*/
 .row {
     margin: 8px -16px;
 }
      
-/* Four Columns */
 .column {
     float: left;
     width: 25%;
-}
-
-.img {
-    max-height: 250px;
 }
 
 
