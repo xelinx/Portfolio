@@ -7,7 +7,9 @@ Building this website was definitely more difficult. The navbar was a bit tricky
 Designing the layout for the portfolio was more difficult. The form page was ok to figure out, but  figuring out the portfolio and the responsive layout...there is so much more I can do and I'm not satisfied with how some of the layout turned out to look like. 
 
 ## Screenshots of the Deployed Website
-
+![About](https://user-images.githubusercontent.com/66236313/85268051-dbf34200-b42a-11ea-8adc-1807e8b1918c.png)
+![Portfolio](https://user-images.githubusercontent.com/66236313/85268056-de559c00-b42a-11ea-8977-c82619869346.png)
+![Contact](https://user-images.githubusercontent.com/66236313/85268057-deee3280-b42a-11ea-88c7-c09325410346.png)
 
 ## Review
 
