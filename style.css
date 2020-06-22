@@ -1,5 +1,5 @@
 a {
-    color: #ffffff;
+    color: #ffffffc2;
     text-decoration: none;
 }
 
@@ -16,5 +16,20 @@ h1 {
 
 .navbar-brand {
     font-size: 48px;
-    background-color: #E6E6FA
+}
+
+
+
+
+
+
+
+
+
+.footer {
+    padding: 30px;
+    background-color: #9370d8;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
