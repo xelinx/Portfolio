@@ -15,7 +15,7 @@ https://xelinx.github.io/portfolio/
 
 * The URL of the GitHub repository which includes a README describing the project.
 
-https://github.com/xelinx/xelinx.github.io
+https://github.com/xelinx/portfolio
 
 ## Credits (tutorials used)
 Bootstrap https://getbootstrap.com/docs/4.5/getting-started/introduction/
