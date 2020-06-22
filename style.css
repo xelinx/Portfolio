@@ -31,29 +31,17 @@ h1 {
 .navbar-brand {
     font-size: 48px;
 }
-  
+
   .row {
     margin: 8px -16px;
 }
-    
+     
 /* Four Columns */
 .column {
     float: left;
     width: 25%;
 }
-  
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-  
-/* Content */
-.content {
-    background-color: white;
-    padding: 10px;
-}
-  
+
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 900px) {
 .column {
