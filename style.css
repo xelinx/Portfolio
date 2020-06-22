@@ -2,6 +2,7 @@
     box-sizing: border-box;
   }
   
+  /*Body*/
   body {
     background-color: #f1f1f1;
     padding: 20px;
@@ -16,6 +17,7 @@
     text-decoration: none;
 }
 
+/*Header*/
 h1 {
     display: inline-block;
     color: #ffffff;
@@ -24,6 +26,12 @@ h1 {
     word-break: break-all;
 }
 
+.header li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+/*Container*/
 .container {
     height: 100%;
     display: flex;
@@ -31,11 +39,7 @@ h1 {
     align-items: center;
 }
 
-.header li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
+/*Navigation Bar*/
 .navbar-brand {
     font-size: 48px;
 }
@@ -49,7 +53,6 @@ h1 {
     float: left;
     width: 25%;
 }
-
 
 /*Footer*/
 .footer {
