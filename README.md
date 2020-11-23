@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Unit 20 React Homework: React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# user-directory
 
-## Available Scripts
+Creating a portfolio using React.
 
-In the project directory, you can run:
+Migrated previous portfolio over to react.
 
-### `npm start`
+## Table of Contents
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Tests](#tests)
+  - [License](#license)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Installation
+  ​
+npm install
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Usage
+npm start
 
-### `npm test`
+## License
+This project is licensed under the MIT license.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Contributing
+Emay Lin
 
-### `npm run build`
+## Tests
+no test
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Requirements
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* Updated portfolio featuring 6 total projects
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* Use React
 
-### `npm run eject`
+* A `Header` component that appears on multiple pages
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* A single `Project` component that will be used multiple times on a single page 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Navigation with React Router, dynamic rendering, or another third part router
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* A `Footer` component that appears on multiple pages
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+* Update GitHub profile with pinned repositories featuring those same projects
 
-## Learn More
+* Deploy this site to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Screenshots of the Deployed Application 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Review
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+The following is submitted for review:
 
-### Analyzing the Bundle Size
+* the URL to the deployed application
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+https://xelinx.github.io/portfolio/portfolio.html
 
-### Making a Progressive Web App
+* the URL to the Github repository
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+https://github.com/xelinx/portfolio
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- - -
+© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
