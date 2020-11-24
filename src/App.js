@@ -19,13 +19,13 @@ function App() {
         <Header />
         <Container fluid>
           <Switch>
-            <Route path="/portfolio/about" exact>
+            <Route path="/" exact>
               <Main />
             </Route>
             <Route path="/portfolio" exact>
               <Portfolio />
             </Route>
-            <Route path="/portfolio/contact" exact>
+            <Route path="/contact" exact>
               <Contact />
             </Route>
           </Switch>

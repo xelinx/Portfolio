@@ -17,9 +17,9 @@ function Header() {
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="mr-auto">
-                        <Nav.Link style={{ color: "white" }} href="/portfolio/about">About</Nav.Link>
+                        <Nav.Link style={{ color: "white" }} href="/">About</Nav.Link>
                         <Nav.Link style={{ color: "white" }} href="/portfolio">Portfolio</Nav.Link>
-                        <Nav.Link style={{ color: "white" }} href="/portfolio/contact">Contact</Nav.Link>
+                        <Nav.Link style={{ color: "white" }} href="/contact">Contact</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Navbar>
