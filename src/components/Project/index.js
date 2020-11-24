@@ -1,15 +1,25 @@
-import React from 'react';
-import { Card, Button } from "react-bootstrap";
+import React from "react";
+import { Button, ButtonGroup, Card, CardDeck, Container } from "react-bootstrap";
 
-export default function Project({title, image, url, git}) {
+function Project({ image, title, url, git }) {
   return (
-    <Card style={{ width: '18rem' }}>
-        <div className="project-image">
-          <Card.img src={image} alt="Project" />
-        </div>
-        <div className="project-title">{title}</div>
-        <Button className="project-url" variant="info">{url}</Button>
-        <Button variant="info">{git}</Button>
-    </Card>
+    <Container style={{ maxWidth: "50%" }}>
+      <CardDeck className="my-2 mx-auto">
+        <Card className="py-4" bg="light" style={{ flex: 1 }}>
+          <div className="project-image">
+            <Card.Img src={image} style={{ width: "30vw" }} alt="Project" />
+          </div>
+          <div fluid style={{ fontSize: "2.5vw" }} className="project-title">{title}</div>
+          <div className="mx-auto">
+            <ButtonGroup>
+              <Button variant="info" href={url}>Deployed Link</Button>
+              <Button variant="info" href={git}>Github</Button>
+            </ButtonGroup>
+          </div>
+        </Card>
+      </CardDeck>
+    </Container>
   );
 }
+
+export default Project;

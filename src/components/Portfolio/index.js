@@ -3,12 +3,30 @@ import { Row, Col, Container } from "react-bootstrap";
 import Project from "../Project";
 import Data from "../../utils/data";
 
-export default function Portfolio(props) {
+const style = { 
+  textAlign: "center", 
+  padding: 10, 
+  marginTop: 10
+};
+
+function Portfolio() {
 
   return (
     <div>
-      <h1 style={{ textAlign: "center", padding: 10, marginTop: 10 }}>My Projects</h1>
-      <Container spacing={3}>
+      <Container fluid>
+        <h1 style={style}>My Projects</h1>
+        <Row>
+          <Col sm>
+            <div>
+              <Project
+                title={Data.projects[0].title}
+                url={Data.projects[0].url}
+                image={Data.projects[0].imageSrc}
+                git={Data.projects[0].github}>
+              </Project>
+            </div>
+          </Col>
+        </Row>
         <Row>
           <Col sm>
             <div>
@@ -69,19 +87,9 @@ export default function Portfolio(props) {
             </div>
           </Col>
         </Row>
-        <Row>
-          <Col sm>
-            <div>
-              <Project
-                title={Data.projects[6].title}
-                url={Data.projects[6].url}
-                image={Data.projects[6].imageSrc}
-                git={Data.projects[6].github}>
-              </Project>
-            </div>
-          </Col>
-        </Row>
       </Container>
     </div>
   );
 }
+
+export default Portfolio;

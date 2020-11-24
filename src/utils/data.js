@@ -7,13 +7,12 @@ import Code from "../images/Code.png";
 import Password from "../images/Password.png";
 
 
-export default
-    {
+export default {
         name: "Emay Lin",
         headerTagline: [
             "Fullstack Web Developer located in Seattle, Washington"
         ],
-        abouttext: ["I grew up in Seattle, Washington. My favorite animals are cats and capybara.", "My favorite flower is the hydrangea.", "In my free time I like to read, craft, and play Taiko."],
+        abouttext: ["I grew up in Seattle, Washington. My favorite animals are cats and capybara. My favorite flower is the hydrangea.", "In my free time I like to read, craft, and play Taiko."],
         aboutImage: Uji,
         ShowAboutImage: true,
         projects: [
