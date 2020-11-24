@@ -6,8 +6,6 @@ Creating a portfolio using React.
 
 Migrated previous portfolio over to react.
 
-For some reason gh-pages deploys very weirdly, but the app runs perfectly fine for me locally as shown in the .gif. Not entirely sure where the problem is stemming from.
-
 ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
