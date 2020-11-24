@@ -4,8 +4,9 @@ import {
   Route,
   Switch,
 } from "react-router-dom";
-import Nav from "./components/Nav";
-import Project from "./components/Project";
+import Container from "react-bootstrap/Container";
+import Header from "./components/Header";
+import Portfolio from "./components/Portfolio";
 import Main from "./components/Main";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
@@ -15,11 +16,11 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <Nav />
+        <Header />
         <Container fluid>
           <Switch>
-            <Route path="/project" exact>
-              <Project />
+            <Route path="/portfolio" exact>
+              <Portfolio />
             </Route>
             <Route path="/" exact>
               <Main />
