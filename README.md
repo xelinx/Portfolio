@@ -6,6 +6,8 @@ Creating a portfolio using React.
 
 Migrated previous portfolio over to react.
 
+For some reason gh-pages deploys very weirdly, but the app runs perfectly fine for me locally as shown in the .gif. Not entirely sure where the problem is stemming from.
+
 ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
@@ -47,7 +49,7 @@ no test
 * Deploy this site to GitHub Pages using the [Create React App docs for deployment.](https://create-react-app.dev/docs/deployment/#github-pages)
 
 ## Screenshots of the Deployed Application 
-
+![Portfolio](https://user-images.githubusercontent.com/66236313/100091197-28dbaa00-2e09-11eb-9463-f78de9540a67.gif)
 
 ## Review
 
@@ -55,7 +57,7 @@ The following is submitted for review:
 
 * the URL to the deployed application
 
-https://xelinx.github.io/portfolio/portfolio.html
+https://xelinx.github.io/portfolio/
 
 * the URL to the Github repository
 
