@@ -56,6 +56,7 @@ no test
 The following is submitted for review:
 
 * the URL to the deployed application
+https://rocky-river-26523.herokuapp.com/ 
 
 https://xelinx.github.io/portfolio/
 
